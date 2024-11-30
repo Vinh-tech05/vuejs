@@ -1,0 +1,25 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Toán",
+      "author": "111",
+      "year": 1925,
+      "cover": "https://metaisach.com/wp-content/uploads/2019/01/sach-giao-khoa-giai-tich-12.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Văn",
+      "author": "111",
+      "year": 2005,
+      "cover": "https://hieusach24h.com/wp-content/uploads/2021/09/Ngu-Van-12-Tap-2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Tiếng Anh",
+      "author": "111",
+      "year": 2010,
+      "cover": "https://img.loigiaihay.com/picture/2024/0116/ta12-global.png"
+    }
+  ]
+}
